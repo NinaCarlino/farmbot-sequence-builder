@@ -109,5 +109,8 @@
 .icon-group{
   float:right;
   padding-right: 10px;
-
+}
+.icon-group a{
+  color: #333;
+  padding-right: 5px;
 }
