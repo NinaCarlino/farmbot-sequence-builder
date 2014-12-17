@@ -5829,13 +5829,13 @@ kbd {
   .switch.large input:checked + label:after {
     left: 2.75rem; }
   .switch.small label {
-    width: 3.5rem;
+    width: 5.5rem;
     height: 1.75rem; }
   .switch.small label:after {
-    width: 1.25rem;
+    width: 2.75rem;
     height: 1.25rem; }
   .switch.small input:checked + label:after {
-    left: 2rem; }
+    left: 2.5rem; }
   .switch.tiny label {
     width: 3rem;
     height: 1.5rem; }
